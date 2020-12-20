@@ -88,7 +88,7 @@ Linux:
 Windows:
 
 ```powershell
-<powershell> Write-Host "Goodbye old instance"
+<powershell> "Goodbye old instance"
 ```
 
 ## What's Next?
